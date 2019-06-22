@@ -1,0 +1,10 @@
+algoritmo    "Soma"
+
+var       n1,n2,s: real
+
+inicio
+      escreva("Digite dois números")
+      leia(n1,n2)
+      s <- n1 + n2
+      escreva("Soma =", s)
+fimalgoritmo

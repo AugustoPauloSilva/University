@@ -1,0 +1,10 @@
+algoritmo    "Soma dos quadrados"
+
+var      n1,n2,n3,r: real
+
+inicio
+   escreva("digite 3 números")
+   leia(n1,n2,n3)
+   r = n1*n1 + n2*n2 + n3*n3
+   escreva("a soma dos quadrados é:", r)
+fimalgoritmo

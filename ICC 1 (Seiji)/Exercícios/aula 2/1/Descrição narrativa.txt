@@ -1,0 +1,6 @@
+Passo 1
+Receber dois números reais
+Passo 2
+Somar os dois números recebidos
+Passo 3
+Mostrar o resultado da soma

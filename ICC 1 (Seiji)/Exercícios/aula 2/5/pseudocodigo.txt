@@ -1,0 +1,15 @@
+algoritmo   "Velocidade média do piloto"
+
+var   p: caracter
+      d,t,v: real
+
+inicio
+      escreva("escreva o nome do piloto")
+      leia(p)
+      escreva("insira a distância percorrida pelo piloto em km")
+      leia(d)
+      escreva("quanto tempo foi gasto para o piloto percorrer essa distância?")
+      leia(t)
+      v = d/t
+      escreva("a velocidade média do piloto <p> foi <v> km/h")
+fimalgoritmo

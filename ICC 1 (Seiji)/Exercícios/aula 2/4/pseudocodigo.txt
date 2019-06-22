@@ -1,0 +1,10 @@
+algoritmo   "Conversão graus Celsius para graus Fahrenheit"
+ 
+var     c,f: real
+
+inicio
+      escreva("insira a temperatura em graus Celsius")
+      leia(c)
+      f<- c * 9/5 +32
+      escreva("a temperatura em graus Fahrenheit é de:", f)
+fimalgoritmo

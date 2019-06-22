@@ -1,0 +1,10 @@
+algoritmo   "Área quadrado"
+
+var    l,a: real
+
+inicio
+    escreva("digite o comprimento do lado do quadrado")
+    leia(l)
+    a = l*l
+    escreva("a área do quadrado tem valor:", a)
+fimalgoritmo
